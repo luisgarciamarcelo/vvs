@@ -1,0 +1,4 @@
+[2020-04-29 14:16:40] staging.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at C:\\xampp\\htdocs\\VVS\\vendor\\symfony\\var-dumper\\Server\\Connection.php:22)
+[stacktrace]
+#0 {main}
+"} 

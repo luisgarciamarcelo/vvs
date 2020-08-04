@@ -1,0 +1,12 @@
+[2020-04-28 01:03:47] staging.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at C:\\xampp\\htdocs\\VVS\\vendor\\laravel\\framework\\src\\Illuminate\\Pagination\\AbstractPaginator.php:15)
+[stacktrace]
+#0 {main}
+"} 
+[2020-04-28 17:25:49] staging.ERROR: Maximum execution time of 60 seconds exceeded {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at C:\\xampp\\htdocs\\VVS\\vendor\\laravel\\framework\\src\\Illuminate\\View\\Concerns\\ManagesLayouts.php:8)
+[stacktrace]
+#0 {main}
+"} 
+[2020-04-28 19:30:04] staging.ERROR: Maximum execution time of 60 seconds exceeded {"userId":8,"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalErrorException(code: 1): Maximum execution time of 60 seconds exceeded at C:\\xampp\\htdocs\\VVS\\vendor\\symfony\\http-foundation\\Cookie.php:19)
+[stacktrace]
+#0 {main}
+"} 
